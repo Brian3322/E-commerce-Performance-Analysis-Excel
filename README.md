@@ -43,7 +43,7 @@ The expanded dataset includes the following main tables:
 
 The interactive dashboard brings together the main business performance indicators and visualizations in one place.
 
-![E-commerce Performance Dashboard](Ecommerce_Dashboard_Screenshot.png)
+![E-commerce Performance Dashboard](Ecommerce_Dashboard_page.jpg)
 
 ## Dashboard Visualizations
 
@@ -85,7 +85,7 @@ The interactive dashboard brings together the main business performance indicato
 
 - `Ecommerce_Dashboard.xlsx` – Excel workbook containing the expanded dataset, analysis worksheets, KPI calculations, and interactive dashboard.
 - `Report.pdf` – Detailed report covering project objectives, analysis, key findings, and business recommendations.
-- `Ecommerce_Dashboard_page.png` – Preview of the completed interactive dashboard.
+- `Ecommerce_Dashboard_page.jpg` – Preview of the completed interactive dashboard.
 
 ## Key Takeaway
 
